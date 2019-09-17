@@ -7,4 +7,8 @@ Cloudwatch rule is simplfied in cloud.sh, this rule applies to the lambda functi
 
 Use Case:
 
-If a person or a thing, scheduled to click the button, doesn't do so, then an alarm is triggered. 
+If a person or a thing, scheduled to click the button, doesn't do so by certain time, then an alarm is triggered. 
+
+TODO:
+
+SLS serverless.yml
